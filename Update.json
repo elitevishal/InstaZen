@@ -1,6 +1,11 @@
 {
-  "version": "8.0.0",
-  "versionCode": 801,
-  "downloadUrl": "https://t.me/elitevishal",
-  "changelog": "Download latest version from our Telegram"
+  "update": {
+    "v1": 8,
+    "v2": 6,
+    "clogs": "Elite Insta V8.6\nUpdated branding\nFixed UPI\nFixed links",
+    "website": "https://t.me/elitevishal",
+    "title": "Update Available",
+    "message": "A new version of Elite Insta is available!",
+    "cancel": true
+  }
 }
