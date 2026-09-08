@@ -10,6 +10,22 @@
   "youtube": {
     "channel_link": "http://youtube.com/@ELITEVISHAAL"
   },
-  "top_donations": [],
+  "top_donations": [
+    {
+      "emoji": "🥇",
+      "name": "Sachin Yadav 1",
+      "amount": "₹1000"
+    },
+    {
+      "emoji": "🥈",
+      "name": "Suraj Kumar 2",
+      "amount": "₹800"
+    },
+    {
+      "emoji": "🥉",
+      "name": "Akash 3",
+      "amount": "₹500"
+    }
+  ],
   "thank_you_message": "Thank you for supporting Elite Insta!"
 }
