@@ -1,8 +1,14 @@
 {
   "versions": [
     {
-      "version": "8.0.0",
-      "changes": ["Elite Insta launched"]
+      "version": "v8.6",
+      "date": "2026-09-08",
+      "changes": [
+        "🚀 Elite Insta Launched",
+        "Updated all links",
+        "Fixed UPI payment",
+        "New branding"
+      ]
     }
   ]
 }
