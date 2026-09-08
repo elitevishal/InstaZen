@@ -1,7 +1,15 @@
 {
-  "upiId": "uuntoldvishal@ibl",
-  "upiQrUrl": "https://i.ibb.co/fYtFvpg6/Screenshot-20260908-172644.jpg",
-  "paypalLink": "http://youtube.com/@ELITEVISHAAL",
-  "paypalQrUrl": "",
-  "top_donations": []
+  "upi": {
+    "qr_image": "https://i.ibb.co/fYtFvpg6/Screenshot-20260908-172644.jpg",
+    "upi_id": "uuntoldvishal@ibl"
+  },
+  "paypal": {
+    "qr_image": "",
+    "paypal_link": "http://youtube.com/@ELITEVISHAAL"
+  },
+  "youtube": {
+    "channel_link": "http://youtube.com/@ELITEVISHAAL"
+  },
+  "top_donations": [],
+  "thank_you_message": "Thank you for supporting Elite Insta!"
 }
