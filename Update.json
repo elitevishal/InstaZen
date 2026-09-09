@@ -1,11 +1,11 @@
 {
   "update": {
-    "v1": 6,
-    "v2": 6,
-    "clogs": "Elite Insta V8.6\nUpdated branding\nFixed bugs\nFixed links",
+    "v1": 8,
+    "v2": 10,
+    "clogs": "🔥 Elite Insta V8.10\n\n✅ Updated branding\n✅ All bugs Fixed \n✅ Fixed links\n✅ Elite Settings\n✅ Elite Testers",
     "website": "https://t.me/elitevishal",
-    "title": "Update Available",
-    "message": "A new version of Elite Insta is available!",
-    "cancel": true
+    "title": "🚀 Update Available",
+    "message": "A new version of Elite Insta is available! Update now for the best experience.",
+    "cancel": false
   }
 }
