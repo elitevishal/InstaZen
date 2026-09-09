@@ -25,6 +25,41 @@
       "emoji": "🥉",
       "name": "Akash 3",
       "amount": "₹500"
+    },
+    {
+      "emoji": "🏅",
+      "name": "Rohit Sharma 4",
+      "amount": "$5"
+    },
+    {
+      "emoji": "🏅",
+      "name": "Aman Verma 5",
+      "amount": "₹350"
+    },
+    {
+      "emoji": "🏅",
+      "name": "Deepak Raj 6",
+      "amount": "$3"
+    },
+    {
+      "emoji": "🏅",
+      "name": "Vikas Meena 7",
+      "amount": "₹200"
+    },
+    {
+      "emoji": "🏅",
+      "name": "Arjun Singh 8",
+      "amount": "₹150"
+    },
+    {
+      "emoji": "🏅",
+      "name": "Karan Gurjar 9",
+      "amount": "₹75"
+    },
+    {
+      "emoji": "🏅",
+      "name": "Mohit Yadav 10",
+      "amount": "₹30"
     }
   ],
   "thank_you_message": "Thank you for supporting Elite Insta!"
